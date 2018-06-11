@@ -7,4 +7,3 @@ When running this file, you will automatically retrieve data from Pedestrian Cou
 
 model.h5 is a pre-trained model trained on a GTX1080 graphics card. 
 
-:) 
